@@ -11,8 +11,12 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileBasenameNoExtension}.exe",
-            ]
+                "${fileBasenameNoExtension}.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
