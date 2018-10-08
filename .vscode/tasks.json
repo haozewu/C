@@ -8,6 +8,8 @@
             "type": "shell",
             "command": "gcc",
             "args": [
+                "-fexec-charset=GBK",
+                "-finput-charset=UTF-8",
                 "-g",
                 "${file}",
                 "-o",

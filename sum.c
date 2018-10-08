@@ -7,6 +7,7 @@ int sum(int a, int b)
 int main()
 {
     int answer, a, b;
+    printf("有本事你先输两个数？\n");
     scanf("%d, %d", &a, &b);
     answer = sum(a,b);
     printf("The sum is %d", answer);
