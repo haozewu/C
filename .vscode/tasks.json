@@ -1,6 +1,7 @@
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
+    // 注意：在某些情况下，"-fexec-charset=GBK"这个参数可能会出现报错，运行失败，可以去掉这个参数
     "version": "2.0.0",
     "tasks": [
         {
