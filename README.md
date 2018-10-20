@@ -14,7 +14,14 @@
 
 vscode安装：
 
+1. 编辑器我们推荐使用VSCode，并针对VSCode配置了一套设置文件
+
+2. [下载VSCode](https://code.visualstudio.com/download)
+3. 然后根据计算机版本完成VSCode的安装
+
 mingw安装：
+
+需要安装C/C++编译工具和调试工具。
 
 ##　关于本项目说明
 
@@ -24,4 +31,4 @@ mingw安装：
 
 ## 贡献指南
 
-pull request时需要运行publish删除临时文件。
+- Pull Request前，请将你的编译生成和临时文件全部删除
