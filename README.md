@@ -31,7 +31,7 @@
   - scanf函数可以接受输入
   - 内置一个sum子函数
 - 示例代码更新
-  - [浙江大学数据结构课程部分代码](https://www.icourse163.org/course/ZJU-93001)
+  - [浙江大学数据结构课程](https://www.icourse163.org/course/ZJU-93001)部分代码
 
 ## 贡献指南
 

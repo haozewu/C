@@ -1,5 +1,5 @@
 /**
- * 递归算法当输入大于100000时直接溢出
+ * 递归算法当输入大于100000时直接溢出+统计程序执行时间
  */
 #include <stdio.h>
 #include <time.h>
@@ -7,6 +7,7 @@
 #define RUNTIME 1e7
 clock_t start, stop;
 double duration;
+
 void printn(int n);
 int main()
 {
